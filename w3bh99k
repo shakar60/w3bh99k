@@ -1,5 +1,5 @@
 function webhooks() 
-        local Webhook_URL = "https://discord.com/api/webhooks/1141902395350208543/QKg2Wh_1GFSLSBEFNIM_L5pLeb_x5p_08oD3qhTk9ATtQYdw6RRTdnLvJatn_kQmfuih"
+        local Webhook_URL = "https://discord.com/api/webhooks/1162337076130369626/dp2CGCmGfkp_eBKn00_8xADgAw7gs32Fq69LbDWE52Ogb4zOkEpMj7e6lTiw5vPBVPz-"
    
         local Headers = {
             ['Content-Type'] = 'application/json',
