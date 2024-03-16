@@ -26,7 +26,7 @@ function webhooks()
                         },
                         {
                             ["name"] = "Executed On",
-                            ["value"] = "Map Id " .. placeName .. "!",
+                            ["value"] = "Map Name " .. mapName"!",
                             ["inline"] = true,
                         },
                 
