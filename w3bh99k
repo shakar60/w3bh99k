@@ -1,5 +1,5 @@
 function webhooks() 
-        local Webhook_URL = "https://discord.com/api/webhooks/1217455349662220288/2L9JPdvIof0jnzeEaYDFQw_PSB6pwbEcFTXO9ekMJpPWmepYU2i0lwxefQx6SuvaCwoR
+        local Webhook_URL = "https://discord.com/api/webhooks/1204796509883867176/Mp9TZEuEN0ovlY4EaYi9ze5zMl1gELyXBdTrMhmfgC5nHAuSKuJTm4QxgfPR04N7DOEq"
    
         local Headers = {
             ['Content-Type'] = 'application/json',
@@ -26,7 +26,7 @@ function webhooks()
                         },
                         {
                             ["name"] = "Executed On",
-                            ["value"] = "Map Name " .. mapName"!",
+                            ["value"] = "Map Id " .. placeName .. "!",
                             ["inline"] = true,
                         },
                 
